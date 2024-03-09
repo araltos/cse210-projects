@@ -3,6 +3,7 @@
     "version": "0.2.0",
     "configurations": [
 
+
         {
             "name": "Sandbox Project",
             "type": "coreclr",
@@ -25,7 +26,7 @@
             "args": [],
             "cwd": "${workspaceFolder}/csharp-prep/Prep1",
             "console": "integratedTerminal",
-            "internalConsoleOptions": "neverOpen",
+            "internalConsoleOptions": "integratedTerminal",
             "stopAtEntry": false
         },
 
